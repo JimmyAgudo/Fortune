@@ -1,0 +1,45 @@
+body{
+    background:url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/4RiK0WlIl/magic-particles-background-beautiful-background-with-light-effect-seamless-fullhd-animation_nnz970rue__F0000.png");
+    text-align:center;
+}
+h1{
+  color:red;
+  font-size:35px;
+}
+p{
+  color:red;
+  font-size:20px;  
+}
+h2{
+    display:none;
+    color:green;
+}
+.k{
+    display:none;
+}
+.n{
+    display:none;
+    font-size:25px;
+    color:green;
+}
+.z{
+    display:none;
+    font-size:25px;
+    color:green;
+}
+.N{
+    display:none;
+}
+.l{
+    display:none;
+}
+button{
+    display:none;
+    text-align:center;
+}
+.w{
+    display:none;
+}
+.q{
+    display:none;
+}
